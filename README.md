@@ -1,116 +1,145 @@
 # Anurup Millan
 ### Backend Engineer · Distributed Systems · AI/ML
 
-I build backend systems, explore AI architectures, and turn technically challenging ideas into working software.
+Building reliable software, exploring intelligent systems, and turning ambitious technical ideas into working products.
 
-With **5+ years of software development experience**, I work across backend engineering, databases, distributed systems, and machine learning. I care about what happens beyond the happy path: concurrency, failure handling, data integrity, performance, and the trade-offs that make systems work in production.
+With **5+ years of software development experience**, I work across backend engineering, distributed systems, database architecture, and AI/ML experimentation. I enjoy solving hard engineering problems where performance, reliability, scalability, and cost all matter.
 
-> 🔒 A lot of my engineering happens behind private repositories. The public ones are just the tip of the commit history. 😉
+**My focus:** building systems that work in the real world — not just in demos.
 
-[**Explore My Repositories**](https://github.com/anurupmillan?tab=repositories) · [**Personal Website**](https://anurupmillan.com) · [**Get in Touch**](mailto:theanurupmillan@gmail.com)
+<p align="center">
+  <a href="https://github.com/anurupmillan">GitHub</a> ·
+  <a href="https://x.com/anurupmillan">X</a> ·
+  <a href="https://linkedin.com/in/anurupmillan">LinkedIn</a> ·
+  <a href="https://anurupmillan.com">Website</a> ·
+  <a href="mailto:theanurupmillan@gmail.com">Email</a>
+</p>
 
 ---
 
-## ⚙️ Technical Focus
+## 🏅 Startup Ecosystem & Affiliations
 
-**Backend Engineering**
-- Python · Django · Django REST Framework · FastAPI
-- Java · Spring Boot · Node.js · Express.js
-- REST API design · Service architecture · Background processing
+I work at the intersection of software engineering, AI, and product development through my broader startup and technology ecosystem.
 
-**Databases & Distributed Systems**
-- PostgreSQL · Redis
-- Apache Kafka · RabbitMQ
-- Data modeling · Query optimization · Event-driven architecture
-- Caching · Concurrency · Transaction integrity
+<!-- Add official logos below only for programs in which you or your company have verified participation.
+     Replace the placeholders with official, permitted image URLs. -->
+
+<!--
+<p align="center">
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792660949/retinamonk/nvidia-inception-program-badge-rgb-for-screen_czv6le.svg" height="55" alt="NVIDIA Inception" />
+  &nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792661012/retinamonk/MS_Startups_Celebration_Badge_Dark_dcirfc.png)" height="55" alt="Microsoft for Startups" />
+  &nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/iitb_logo_zkheua.png" height="55" alt="IIT Bombay Eureka" />
+  &nbsp;&nbsp;
+  <img src="[YOUR_OFFICIAL_ASSAM_STARTUP_LOGO_URL](https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/assam_startup_logo_i1irh0.png)" height="55" alt="Assam Startup" />
+</p>
+-->
+
+*Program logos and affiliations will be displayed here where applicable and verifiable.*
+
+---
+
+## 🛠️ Technical Stack
+
+**Backend & APIs**
+
+Python · Django · Django REST Framework · FastAPI · Java · Spring Boot · Node.js · Express.js
+
+**Databases & Messaging**
+
+PostgreSQL · Redis · Apache Kafka · RabbitMQ · Elasticsearch/OpenSearch
 
 **AI & Machine Learning**
-- Large language models and model-training strategies
-- Knowledge distillation and inference optimization
-- Computer vision · CNNs · YOLO
-- AI-assisted development and intelligent developer tools
 
-**Application Development**
-- React · Next.js · TypeScript · Flutter
+LLMs · Knowledge Distillation · Computer Vision · CNNs · YOLO · Model Training · Inference Optimization
 
-**Infrastructure & Engineering**
-- Linux · Networking · API integration
-- System design · Testing · Performance analysis
-- Deployment workflows · Reliability engineering
+**Frontend & Applications**
+
+React · Next.js · TypeScript · Flutter
+
+**Infrastructure & Systems**
+
+Linux · Networking · REST APIs · Event-Driven Architecture · System Design · Performance Testing
 
 ---
 
-## 🧠 What I'm Exploring
+## 🧠 Engineering Interests
 
-- **AI systems:** Training strategies, model efficiency, context management, and inference under hardware constraints.
-- **Distributed architecture:** Reliable event processing, messaging, caching, and data consistency.
-- **Backend performance:** Finding bottlenecks through profiling, benchmarks, and systematic testing.
-- **Developer tools:** Building AI-powered workflows that help engineers understand, modify, test, and ship software.
-- **Product engineering:** Turning technical capabilities into useful, maintainable products.
-
-I enjoy the intersection where theoretical ideas meet real-world constraints: limited compute, unpredictable workloads, operational complexity, and the need to make systems dependable.
+- **Backend architecture:** APIs, data models, transaction integrity, and maintainable services.
+- **Distributed systems:** asynchronous processing, event-driven workflows, messaging, caching, and failure handling.
+- **AI systems:** model development, training strategies, knowledge distillation, and hardware-efficient inference.
+- **Computer vision:** image understanding, detection, and practical ML applications.
+- **Developer tools:** AI-assisted coding, codebase understanding, and automated engineering workflows.
+- **Performance engineering:** profiling, benchmarking, database optimization, and system-level trade-offs.
 
 ---
 
-## 🚀 Building & Experimenting
+## 🚀 Building & Exploring
 
 ### Exanor
 AI-powered billing, accounting, inventory management, and business software.
 
 ### Friday
-An intelligent software development platform exploring AI-assisted coding, codebase understanding, engineering automation, and development workflows.
+An intelligent software development platform exploring AI-assisted coding, codebase understanding, development automation, and engineering workflows.
 
-### AI Research & Engineering
-Experiments and research interests spanning model development, knowledge distillation, computer vision, distributed training, and efficient inference.
+### AI Model Research
+Exploring model-training strategies, inference efficiency, context management, computer vision, and distributed training.
 
-*Some projects and implementation details are private or under active development. Public repositories reflect only the work that is available to share.*
-
----
-
-## 📐 My Engineering Principles
-
-- **Correctness before cleverness.** A system must behave correctly before it deserves optimization.
-- **Measure, don't guess.** Performance claims should come with benchmarks and reproducible conditions.
-- **Design for failure.** Timeouts, retries, concurrency, and partial failures are architectural concerns, not afterthoughts.
-- **Respect trade-offs.** Latency, throughput, cost, complexity, and maintainability rarely optimize themselves simultaneously.
-- **Make the work inspectable.** Clear documentation, meaningful tests, and reproducible setups matter.
-- **Build for actual problems.** Technology is a means to an outcome, not the outcome itself.
+Some of my work lives in private repositories and active development environments. Consider the public repositories the trailer — the full engineering story has a few chapters that aren't open to the public yet. 😉
 
 ---
 
-## 📊 GitHub
+## 📐 How I Engineer
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurupmillan&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/anurupmillan)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurupmillan&layout=compact&hide_border=true)](https://github.com/anurupmillan?tab=repositories)
-
-*Repository statistics are snapshots of public GitHub activity, not a complete measure of engineering experience. Some of my work isn't publicly visible.*
-
----
-
-## 🤝 Let's Build Something
-
-I'm interested in connecting with:
-
-- Engineering teams working on challenging backend or AI systems.
-- Researchers exploring practical approaches to model development and inference.
-- Developers building distributed infrastructure and intelligent developer tools.
-- Founders who value strong engineering and thoughtful system design.
-
-**Recruiters and hiring teams:** I'm open to relevant backend and AI engineering opportunities. Let's talk about the technical challenges, not just the job title.
-
-**Developers and researchers:** Have an interesting problem, an experiment worth testing, or an architecture worth debating? Let's connect.
-
-- GitHub: [@anurupmillan](https://github.com/anurupmillan)
-- Website: [anurupmillan.com](https://anurupmillan.com)
-- Email: [theanurupmillan@gmail.com](mailto:theanurupmillan@gmail.com)
-- LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- **Correctness first:** Build reliable behavior before optimizing it.
+- **Measure everything that matters:** Validate performance with repeatable benchmarks.
+- **Design for failure:** Account for timeouts, retries, concurrency, and partial failures.
+- **Understand trade-offs:** Balance latency, throughput, compute, cost, and maintainability.
+- **Keep work reproducible:** Use clear documentation, meaningful tests, and explicit assumptions.
+- **Build for outcomes:** Solve real problems rather than collecting technologies.
 
 ---
 
-*I like building things that can be tested, measured, challenged, and made better.*
+## 📊 GitHub Activity
 
-**Less hype. More engineering.**
+<p align="center">
+  <a href="https://github.com/anurupmillan">
+    <img src="https://github-readme-stats.vercel.app/api?username=anurupmillan&show_icons=true&hide_border=true&rank_icon=github" alt="Anurup Millan's GitHub statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anurupmillan?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurupmillan&layout=compact&hide_border=true" alt="Languages detected in public repositories" />
+  </a>
+</p>
+
+*Public repository statistics provide only a partial view of engineering work, particularly when substantial work remains private.*
+
+---
+
+## 🤝 Let's Build Something Meaningful
+
+I'm interested in collaborating with engineering teams, researchers, founders, and developers working on challenging problems in backend infrastructure, distributed systems, and AI.
+
+**For recruiters and engineering leaders:** I'm open to relevant backend and AI engineering opportunities where strong fundamentals, system design, and measurable engineering outcomes matter.
+
+**For developers and researchers:** If you're exploring an interesting architecture, building an AI system, or solving a difficult infrastructure problem, let's exchange ideas.
+
+<p align="center">
+  <a href="mailto:theanurupmillan@gmail.com"><strong>LET'S TALK ENGINEERING →</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anurupmillan">GitHub</a> ·
+  <a href="https://x.com/anurupmillan">X</a> ·
+  <a href="https://linkedin.com/in/anurupmillan">LinkedIn</a>
+</p>
+
+<p align="center">
+  <em>Less hype. More engineering. Better systems.</em>
+</p>
 
 <!---
 anurupmillan/anurupmillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
