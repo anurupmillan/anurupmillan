@@ -1,4 +1,5 @@
 # Anurup Millan
+
 ### Backend Engineer · Distributed Systems · AI/ML
 
 Building reliable software, exploring intelligent systems, and turning ambitious technical ideas into working products.
@@ -19,24 +20,19 @@ With **5+ years of software development experience**, I work across backend engi
 
 ## 🏅 Startup Ecosystem & Affiliations
 
-I work at the intersection of software engineering, AI, and product development through my broader startup and technology ecosystem.
+Building at the intersection of AI, software engineering, and entrepreneurship, with connections to the startup and technology ecosystem.
 
-<!-- Add official logos below only for programs in which you or your company have verified participation.
-     Replace the placeholders with official, permitted image URLs. -->
-
-<!--
 <p align="center">
-  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792660949/retinamonk/nvidia-inception-program-badge-rgb-for-screen_czv6le.svg" height="55" alt="NVIDIA Inception" />
-  &nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792661012/retinamonk/MS_Startups_Celebration_Badge_Dark_dcirfc.png)" height="55" alt="Microsoft for Startups" />
-  &nbsp;&nbsp;
-  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/iitb_logo_zkheua.png" height="55" alt="IIT Bombay Eureka" />
-  &nbsp;&nbsp;
-  <img src="[YOUR_OFFICIAL_ASSAM_STARTUP_LOGO_URL](https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/assam_startup_logo_i1irh0.png)" height="55" alt="Assam Startup" />
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792660949/retinamonk/nvidia-inception-program-badge-rgb-for-screen_czv6le.svg" height="65" alt="NVIDIA Inception" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792661012/retinamonk/MS_Startups_Celebration_Badge_Dark_dcirfc.png" height="65" alt="Microsoft for Startups" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/iitb_logo_zkheua.png" height="65" alt="IIT Bombay" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/assam_startup_logo_i1irh0.png" height="65" alt="Assam Startup" />
 </p>
--->
 
-*Program logos and affiliations will be displayed here where applicable and verifiable.*
+*Building products, exploring new technologies, and contributing to the startup ecosystem.*
 
 ---
 
@@ -78,12 +74,15 @@ Linux · Networking · REST APIs · Event-Driven Architecture · System Design �
 ## 🚀 Building & Exploring
 
 ### Exanor
+
 AI-powered billing, accounting, inventory management, and business software.
 
 ### Friday
+
 An intelligent software development platform exploring AI-assisted coding, codebase understanding, development automation, and engineering workflows.
 
 ### AI Model Research
+
 Exploring model-training strategies, inference efficiency, context management, computer vision, and distributed training.
 
 Some of my work lives in private repositories and active development environments. Consider the public repositories the trailer — the full engineering story has a few chapters that aren't open to the public yet. 😉
@@ -134,13 +133,13 @@ I'm interested in collaborating with engineering teams, researchers, founders, a
 <p align="center">
   <a href="https://github.com/anurupmillan">GitHub</a> ·
   <a href="https://x.com/anurupmillan">X</a> ·
-  <a href="https://linkedin.com/in/anurupmillan">LinkedIn</a>
+  <a href="https://linkedin.com/in/anurupmillan">LinkedIn</a> ·
+  <a href="mailto:theanurupmillan@gmail.com">Email</a>
 </p>
 
 <p align="center">
   <em>Less hype. More engineering. Better systems.</em>
 </p>
-
 <!---
 anurupmillan/anurupmillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
