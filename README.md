@@ -1,5 +1,6 @@
-# Anurup Millan
+# Anurup Millan 
 
+### The guy who built an LLM from scratch!
 ### Backend Engineer · Distributed Systems · AI/ML
 
 Building reliable software, exploring intelligent systems, and turning ambitious technical ideas into working products.
@@ -28,6 +29,10 @@ Building at the intersection of AI, software engineering, and entrepreneurship, 
   <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1792661012/retinamonk/MS_Startups_Celebration_Badge_Dark_dcirfc.png" height="65" alt="Microsoft for Startups" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/iitb_logo_zkheua.png" height="65" alt="IIT Bombay" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770191/retinamonk/startup_india_logo_pac84r.png" height="65" alt="Startup India" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770193/retinamonk/punjab_startup_logo_lj6ygb.png" height="65" alt="Startup Punjab" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://res.cloudinary.com/anurupmillan/image/upload/v1741770192/retinamonk/assam_startup_logo_i1irh0.png" height="65" alt="Assam Startup" />
 </p>
